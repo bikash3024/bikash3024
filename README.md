@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bikash3024
 - 👀 I’m interested in creating things on web.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bkashgaucho@gmail.com
 
