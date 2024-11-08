@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bikash3024
+- 👋 Hi, I’m Bikash
 - 👀 I’m interested in creating things on web.
 - 📫 How to reach me bkashgaucho@gmail.com
 
