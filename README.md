@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bikash
-- 👀 I’m interested in creating things on web.
+- 👀 I love creating things on web.
 - 📫 How to reach me bkashgaucho@gmail.com
 
 <!---
